@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KauaZs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/573812452165156864)](https://discord.com/users/573812452165156864)
+
 ###
 
 <div align="left">
@@ -26,4 +28,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/573812452165156864)](https://discord.com/users/573812452165156864)
