@@ -7,17 +7,19 @@
   <img src="https://lanyard.cnrad.dev/api/573812452165156864" alt="https://discord.com/users/573812452165156864">
 </div>
 
-###
+### ✨ Languages:
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="40" alt="java logo"  />
+  <img width="12" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" height="40" alt="typescript logo"  />
   <img width="12" />
  
 </div>
 
-###
+### 📫 Contact:
 
 <div align="left">
   <a href="https://discord.com/users/KauaZs" target="_blank">
